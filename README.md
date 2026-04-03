@@ -53,3 +53,5 @@ This project analyzes diabetes data using Python.
 
 ## Contributing
 [Add contribution guidelines if applicable]
+
+Dataset: Pima Indians Diabetes Dataset (Kaggle)
