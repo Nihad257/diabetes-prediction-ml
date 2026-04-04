@@ -41,17 +41,11 @@ This project analyzes diabetes data using Python.
 ## Files
 - `diabetes_analysis.py`: Main analysis script
 - `diabetes.csv`: Dataset containing diabetes information
-- `diabetes_project`: [Description if needed]
+- `diabetes_project`.
 
 ## Setup
 1. Ensure Python is installed.
-2. Install required packages: [list if any]
+2. Install required packages.
 3. Run the analysis: `python diabetes_analysis.py`
-
-## Usage
-[Add usage instructions here]
-
-## Contributing
-[Add contribution guidelines if applicable]
 
 Dataset: Pima Indians Diabetes Dataset (Kaggle)
