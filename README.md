@@ -17,13 +17,17 @@ Data cleaning and handling missing values
 Exploratory Data Analysis (EDA) and visualizations
 Feature selection and preparation for modeling
 Logistic Regression model building
+
+
 Model evaluation using:
 Accuracy
 Confusion Matrix
 Classification Report
+
 📊 Model Performance
 Accuracy: 75%
 Balanced evaluation using precision, recall, and F1-score
+
 🛠️ Tools & Libraries Used
 Python
 Pandas
@@ -32,6 +36,7 @@ Matplotlib
 Seaborn
 Scikit-learn
 Git
+
 📁 Project Structure
 diabetes-prediction-ml/
 │
@@ -40,6 +45,7 @@ diabetes-prediction-ml/
 └── images/
     ├── correlation_heatmap.png
     └── outcome_count.png
+    
 ▶️ How to Run
 Clone the repository
 
@@ -63,6 +69,6 @@ EDA techniques
 Logistic Regression modeling
 Model evaluation
 Proper project structuring and version control
-🔗 GitHub Repository
 
+🔗 GitHub Repository
 https://github.com/Nihad257/diabetes-prediction-ml
